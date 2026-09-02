@@ -56,3 +56,20 @@
 [ Arduino Uno Cluster ] ───> [ DC Motors / 4x Servos / TFmini LiDAR / 4-Stage Coilgun ]
 ```
 > 📄 **상세 결과보고서:** 저장소 내 [`2023 다목적 무인 전차 프로젝트.pdf`](./2023%20다목적%20무인%20전차%20프로젝트.pdf) 파일에서 전체 개발 보고서 전문을 확인하실 수 있습니다.
+>
+> 
+## 🎬 동작 시연 영상 (Demo Videos)
+
+> 📌 **전체 시연 재생목록:** [YouTube에서 전체 재생목록 보기](https://youtube.com/playlist?list=PLkQOg6djm-n1DcqkCkxhRMH0QNu-70jOC&si=9l2shLrAEd2qg2KQ)
+
+| 영상 제목 / 내용 | 시연 내용 요약 | 링크 |
+| :--- | :--- | :---: |
+| **차체 구동계 모터 벤치 테스트** | L298N 모터 드라이버 및 배터리 구동계 벤치 테스트로 LUNAVOLT 리튬이온 팩 전원 인가 후 웜 기어드 모터 4륜 동시 토크 점검 | [영상 보기](https://youtu.be/C7PUrNnd8Yg) |
+| **다목적 무인 전차 코일건 4단 코일 시험발사** | 포토트랜지스터 4단 배열 및 아크릴 가이드 튜브 내 센싱 점호 회로 동작 검증 및 파워 벤치마킹 | [영상 보기](https://youtu.be/iAUo7lsdzWA) |
+| **다목적 무인 전차 코일건 단일 코일 시험발사** | 대용량 전원과 MOSFET 스위칭을 활용한 단일 코일 전자석 격발 파워 벤치마크 및 캔 타격 테스트 | [영상 보기](https://youtu.be/AX7p-OcrsBY) |
+| **차체 한계중량 적재 주행 테스트** | 금속 앵글을 적재한 상태에서의 차체 하중 주행을 통해 차체 한계중량 테스트 | [영상 보기](https://youtu.be/v7LiyQcw-Fc) |
+| **차체 무선 조작 및 조향 테스트 1** | 복도 환경에서 스마트폰 MQTT 대시보드 앱을 이용한 4륜 구동계 DC 기어드 모터 턴 및 조향 안정성 검증 테스트 | [영상 보기](https://youtu.be/Sax5iwn7WCI) |
+| **차체 무선 조작 및 기동 테스트 2** | 복도 환경에서 스마트폰 MQTT 대시보드 앱을 이용한 4륜 구동계 전진/후진 및 선회 기동 테스트 | [영상 보기](https://youtu.be/kazQ9AnYgRo) |
+| **MQTT 기반 전차장 조준경(CPS) 각도 제어** | 스마트폰 MQTT 대시보드 앱에서 `locate` 좌표 토픽 송신 시 상부 팬 서보모터 반응 테스트 | [영상 보기](https://youtu.be/jXTOnClKiQ4) |
+| **포탑 상부 서보모터 및 통신 동기화 디버깅** | 스마트폰 MQTT 대시보드 앱 명령 발행(`pub`) 시 아두이노 IDE 시리얼 모니터 패킷 수신 및 포탑 상부 서보모터 동기화 디버깅 | [영상 보기](https://youtu.be/FfOo6mze1Z8) |
+| **웹 관제 GUI 기반 차체 기동 연동 테스트** | Web Interface(HTML/JS) 키패드 및 방향 입력 시 차체 기동 제어 | [영상 보기](https://youtu.be/5T-moHU2g3Y) |
