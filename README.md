@@ -8,7 +8,9 @@
 중부대학교 스마트IT전공 캡스톤디자인(졸업작품)으로 개발된 다목적 원격 무인 전차 시스템입니다.  
 위험 전장 및 재난 구조 현장에서 인명 피해를 방지하고 탐색·물자 수송·원격 타격을 수행할 수 있도록 설계되었습니다.  
 웹 브라우저를 통한 실시간 듀얼 영상 관제, MQTT 비동기 패킷 통신, TFmini Plus LiDAR 거리 기반 고저각 산출, 전차장 독립 탐색(CPS) 및 포수 사격 연동 로직(Hunter-Killer)을 구현했습니다.
-<img width="474" height="654" alt="CamScanner 2024-07-21 02 49_21" src="https://github.com/user-attachments/assets/7c9b4bd2-fde3-4de7-8fc5-d8cb06555c08" />
+
+<img width="237" height="327" alt="CamScanner 2024-07-21 02 49_21" src="https://github.com/user-attachments/assets/673f2b64-6518-4c7c-b90f-f6a8600bbbcc" />
+
 
 ---
 
