@@ -14,7 +14,7 @@
 
 ---
 
-##📌 핵심 요약 (Executive Summary)
+## 📌 핵심 요약 (Executive Summary)
 
 - **개발 기간:** 2023.03.02 ~ 2023.06.19 (중부대학교 스마트IT프로젝트)
 - **수행 역할:** **하드웨어 설계 총괄 & 임베디드 펌웨어 리드 (Hardware & Embedded Firmware Lead)**
