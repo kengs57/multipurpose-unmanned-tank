@@ -54,3 +54,5 @@
      │  │ UART Serial Bus (115200 bps)
      ▼  │
 [ Arduino Uno Cluster ] ───> [ DC Motors / 4x Servos / TFmini LiDAR / 4-Stage Coilgun ]
+
+> 📄 **상세 결과보고서:** 저장소 내 [`2023 다목적 무인 전차 프로젝트.pdf`](./2023%20다목적%20무인%20전차%20프로젝트.pdf) 파일에서 전체 개발 보고서 전문을 확인하실 수 있습니다.
